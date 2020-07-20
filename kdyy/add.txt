@@ -1,0 +1,5 @@
+git add "파일명" : 파일 하나 올리기
+git add . : 전체파일 올리기
+git status : 상태
+git commit -m "보낼 메세지"
+git push origin master :마지막으로 push
